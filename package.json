@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Basic ExpressJS terminologies",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start-server": "node server.js"
+  },
   "author": "@geovannycordero",
   "license": "MIT",
   "private": false,
