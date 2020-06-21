@@ -6,4 +6,5 @@ Basic express app
 
 Express documentation [here](https://expressjs.com/)
 
-**Tutorial**: [How to Create a Professional Chat API Solution with Sockets in NodeJS [Beginner level]](https://www.freecodecamp.org/news/create-a-professional-node-express/).
+**Tutorial**: [Video Tutorials](https://www.youtube.com/watch?v=t7-yuYFVG1Y&list=PLH6pGK5zEj9mO-yS9FjQ6xhJXUagoEgOh)
+
