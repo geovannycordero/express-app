@@ -1,5 +1,7 @@
 ## ExpressJS app
 
+![badge](https://action-badges.now.sh/geovannycordero/express-app)
+
 Basic express app
 
 Express documentation [here](https://expressjs.com/)
