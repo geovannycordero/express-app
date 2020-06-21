@@ -1,9 +1,12 @@
 const http = require('http')
 const cors = require('cors')
+const dotenv = require("dotenv")
 const morgan = require('morgan')
 const express = require('express')
 
 const userRouter = require('./routes/user')
+
+dotenv.config()
 
 const app = express()
 app.use(cors())
